@@ -410,7 +410,7 @@ footer {
 
 /* Media queries (home) */
 /* Mobile */
-@media (min-width: 430px) and (max-width: 750px) {
+@media (min-width: 428px) and (max-width: 750px) {
   /* Header */
   .header-container {
     position: sticky;
@@ -793,7 +793,7 @@ footer {
   margin: 0;
 }
 
-@media (min-width: 430px) and (max-width: 750px) {
+@media (min-width: 428px) and (max-width: 750px) {
   .filter-toggle-label {
     display: block;
     margin-bottom: 10px;
@@ -1148,7 +1148,7 @@ footer {
   color: #fff;
 }
 
-@media (min-width: 430px) and (max-width: 750px) {
+@media (min-width: 428px) and (max-width: 750px) {
   /* Buy section */
   .buy-container {
     display: flex;
@@ -1445,7 +1445,7 @@ html, body {
   border: 1px solid #ca2323;
 }
 
-@media (min-width: 430px) and (max-width: 750px) {
+@media (min-width: 428px) and (max-width: 750px) {
   .sidebar-toggle-label {
     display: inline-block;
     grid-column: 1/1;
@@ -1741,7 +1741,7 @@ html, body {
   background-color: #750000;
 }
 
-@media (min-width: 430px) and (max-width: 750px) {
+@media (min-width: 428px) and (max-width: 750px) {
   .faq-main {
     width: 350px;
   }
