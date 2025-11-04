@@ -410,11 +410,9 @@ footer {
 
 /* Media queries (home) */
 /* Mobile */
-<<<<<<< HEAD
+
 @media (max-width: 430px) {
-=======
-@media (min-width: 390px) and (max-width: 750px) {
->>>>>>> 47f21f86f5a8bad0607576d99536b6ac333b31f3
+
   /* Header */
   .header-container {
     position: sticky;
